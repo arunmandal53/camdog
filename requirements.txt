@@ -31,7 +31,7 @@ PyScreeze==0.1.18
 python-dateutil==2.7.3
 PyTweening==1.0.3
 pytz==2018.5
-requests==2.19.1
+requests>=2.20.0
 rope==0.11.0
 scikit-learn==0.19.2
 scipy==1.1.0
