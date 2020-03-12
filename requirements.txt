@@ -21,7 +21,7 @@ opencv-contrib-python==3.4.2.17
 opencv-python==3.4.2.17
 Pillow==6.2.0
 protobuf==3.6.1
-psutil==5.4.7
+psutil==5.6.6
 PyAutoGUI==0.9.38
 pylint==2.1.1
 PyMsgBox==1.0.6
