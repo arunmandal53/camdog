@@ -20,7 +20,7 @@ numpy==1.14.5
 opencv-contrib-python==3.4.2.17
 opencv-python==3.4.2.17
 Pillow==6.2.0
-protobuf==3.6.1
+protobuf==3.18.3
 psutil==5.4.7
 PyAutoGUI==0.9.38
 pylint==2.1.1
